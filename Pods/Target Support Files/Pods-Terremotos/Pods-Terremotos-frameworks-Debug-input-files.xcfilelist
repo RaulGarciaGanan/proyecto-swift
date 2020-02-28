@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-Terremotos/Pods-Terremotos-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/Alamofire-SwiftyJSON/Alamofire_SwiftyJSON.framework
+${BUILT_PRODUCTS_DIR}/GeoJSON/GeoJSON.framework
+${BUILT_PRODUCTS_DIR}/JSON/JSON.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework

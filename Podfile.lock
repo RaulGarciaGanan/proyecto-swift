@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Alamofire-SwiftyJSON (3.0.0):
+    - Alamofire (~> 4.5)
+    - SwiftyJSON (~> 4.0.0)
+  - GeoJSON (0.3.3)
+  - JSON (5.0.0)
+  - SwiftyJSON (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire-SwiftyJSON
+  - GeoJSON
+  - JSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Alamofire-SwiftyJSON
+    - GeoJSON
+    - JSON
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Alamofire-SwiftyJSON: 2b3649d57dc7bb2880fb8b86f8bb969397666916
+  GeoJSON: 92d886a3ee9e587b7410388456145eb4b71cdbfc
+  JSON: 93622160a062588b4cd3497b77ccd777f1fd0587
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+
+PODFILE CHECKSUM: f1dfd5104360fd4c59d2e9e4f898c509fbd3d27c
+
+COCOAPODS: 1.8.4
